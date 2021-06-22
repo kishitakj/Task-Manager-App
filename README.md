@@ -4,9 +4,6 @@
 
 This is a Task-Manager app.Create a user account and start writing down what you have to get done.
 
-
-See the project in action [here](https://josy-task-app.herokuapp.com/).
-
 ## Features
 
 - Create a user account
