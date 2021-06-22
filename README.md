@@ -2,9 +2,8 @@
 
 ## Overview
 
-This is a simple to-do list app. Create a user account and start writing down what you have to get done.
+This is a Task-Manager app.Create a user account and start writing down what you have to get done.
 
-Part of the backend was created following Andrew Mead's Node.js course.
 
 See the project in action [here](https://josy-task-app.herokuapp.com/).
 
